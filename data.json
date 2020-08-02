@@ -1,8 +1,16 @@
 {
     "announcements": [
         {
-            "title": "Black Swan",
-            "description": "Submissions last date: 18/02/1989"
+            "title": "Hult Prize 2020",
+            "description": "Instagram @hultprizemec"
+        },
+        {
+            "title": "ISRO Remote Sensing Outreach Programme",
+            "description": "Instagram @iedcmec"
+        },
+        {
+            "title": "Revive- Idea Pitching Contest",
+            "description": "Instagram @iedcmec"
         }
     ]
 }
